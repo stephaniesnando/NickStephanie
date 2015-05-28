@@ -1,0 +1,29 @@
+    div{
+    border-style: solid;
+    border-width: 3px;
+    border-color: transparent;
+    padding: 10px;
+}    
+
+body{ 
+    background-color: grey;
+}
+
+.registerbody{
+    background-image: url("https://unsplash.com/photos/gapYVvUg1M8/download");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100%;
+}
+
+.list-group-item{
+   background-color: pink;
+}
+/*Put a backround image on my nav bar, I know it looks amazing.*/
+
+.jumbotron {
+    margin-bottom: 2px;
+    background-color: pink;
+}
+/*Used the same background image as my nav bar for my jumbottron, to make it look a little less weird.*/
